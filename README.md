@@ -1,3 +1,7 @@
+# RadBingus
+
+A fork of GR13, based around gameplay before roleplay.
+
 ## Good Radscorpion 13
 Welcome one, welcome all, to Good Radscorpion 13. This is our little attempt at bringing back the old /tg/ Fallout 13 style Crashpoint showed us actually works.
 
